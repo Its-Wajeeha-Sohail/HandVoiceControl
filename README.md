@@ -12,12 +12,11 @@ Gesture Controlled Virtual Mouse makes human computer interaction simple by maki
   
   ### Procedure
   ```bash
-  git clone https://github.com/xenon-19/Gesture-Controlled-Virtual-Mouse.git
-  ``
+  git clone https://github.com/Its-Wajeeha-Sohail/HandVoiceControl.git
   
   Step 1: 
   ```bash
-  conda create --name gest python=3.8.5
+  conda create --name gest python
   ```
   
   Step 2:
